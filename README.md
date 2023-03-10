@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=정훈&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=정훈&fontSize=60&fontAlign=70)
 </br>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mssql-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
