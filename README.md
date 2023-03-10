@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **junghunchoi/junghunchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=정훈&fontSize=90)
+</br>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
