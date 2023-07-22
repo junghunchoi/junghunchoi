@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=정훈&fontSize=90" />
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=정훈&fontSize=60)
 </br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzudi@naver.com&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=azzudi@naver.com&show_icons=true">
  <img src="https://img.shields.io/badge/mssql-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
