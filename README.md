@@ -6,7 +6,7 @@
 </br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=junghunchoi&date_format=[Y.]n.j)])](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=junghunchoi&date_format=[Y.]n.j)])]
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghunchoi&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=junghunchoi&show_icons=true">
