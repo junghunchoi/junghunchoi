@@ -1,4 +1,4 @@
-
+<div align=center>
 <h3 align="center" >반갑습니다 😁</h1>
 
 
@@ -24,8 +24,20 @@
 
 <h3 align="center" >📈 Status </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=junghunchoi&theme=dark&hide_border=true&locale=en&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
+
+
+### 꾸준한 커밋이야 말로 개발자의 덕목!
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=junghunchoi&theme=dark&hide_border=true&locale=en&date_format=%5BY.%5Dn.j)
+
+
+
+### 여기선 잔디가 아니라 레고 🧱
+
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-
+</div>
