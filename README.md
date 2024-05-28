@@ -6,21 +6,17 @@
 <br/><br/>
 
 <h3 align="center" >🛠 Tech </h1>
-<p align = "center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)"> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+<p align = "center">
+  <img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)"> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white">
 </p>
 <br/>
 
 
-<h3 align="center" >🖊️ 블로그 </h3>
-<p align = "center">
-<a href="https://shrub-molecule-a13.notion.site/333e1cd57d6a4874b4340d3fd04567ca?pvs=4">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</a>
-</p>
-</br>
+
 
 <h3 align="center" >📈 Status </h1>
 
