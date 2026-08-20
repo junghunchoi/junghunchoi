@@ -25,7 +25,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 <p>
@@ -33,30 +32,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
 
 <br/>
 
 ---
 
-<h3>📊&nbsp; GitHub Stats & Streak</h3>
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junghunchoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghunchoi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=junghunchoi&theme=tokyonight&hide_border=true&locale=en&date_format=%5BY.%5Dn.j"/>
-</p>
-
-<br/>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
